@@ -1,4 +1,3 @@
-```markdown
 #  House Rent Prediction
 
 A Machine Learning Project to Predict House Rent Prices.
@@ -16,8 +15,6 @@ This project applies machine learning techniques to analyze and predict house re
 ## Demo
 
 [![Watch the Demo](demo.gif)](https://streamable.com/uoeq7r)  
-*Click the image to see the video demo.*
-
 ---
 
 ## How to Run the Project
@@ -75,4 +72,3 @@ House_Rent_Prediction/
 - **Scikit-learn**
 
 ---
-
